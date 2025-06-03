@@ -1,0 +1,12 @@
+.box{
+    background: red; /* Cor de fundo */
+    height: 100px; /* Largura */
+    width: 100px; /* Altura */
+    border: black 3px solid; /* Borda */
+    border-radius: 100px; /* Arredondamento da borda */
+    box-sizing: border-box;
+    text-align: center;/* Centralizar texto */
+    font-weight: bolder; /* Peso da fonte */
+    padding: 10px; /*  */
+
+}
